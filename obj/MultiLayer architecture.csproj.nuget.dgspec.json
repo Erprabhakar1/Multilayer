@@ -1,0 +1,317 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\prabhakar tiwari\\source\\repos\\MultiLayer architecture\\MultiLayer architecture.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\prabhakar tiwari\\source\\repos\\BusinessLayer BAL\\BusinessLayer BAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\prabhakar tiwari\\source\\repos\\BusinessLayer BAL\\BusinessLayer BAL.csproj",
+        "projectName": "BusinessLayer BAL",
+        "projectPath": "C:\\Users\\prabhakar tiwari\\source\\repos\\BusinessLayer BAL\\BusinessLayer BAL.csproj",
+        "packagesPath": "C:\\Users\\prabhakar tiwari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prabhakar tiwari\\source\\repos\\BusinessLayer BAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\prabhakar tiwari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\prabhakar tiwari\\source\\repos\\CommanLayer\\CommanLayer.csproj": {
+                "projectPath": "C:\\Users\\prabhakar tiwari\\source\\repos\\CommanLayer\\CommanLayer.csproj"
+              },
+              "C:\\Users\\prabhakar tiwari\\source\\repos\\Data AccessLayer DAL\\Data AccessLayer DAL.csproj": {
+                "projectPath": "C:\\Users\\prabhakar tiwari\\source\\repos\\Data AccessLayer DAL\\Data AccessLayer DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\prabhakar tiwari\\source\\repos\\CommanLayer\\CommanLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\prabhakar tiwari\\source\\repos\\CommanLayer\\CommanLayer.csproj",
+        "projectName": "CommanLayer",
+        "projectPath": "C:\\Users\\prabhakar tiwari\\source\\repos\\CommanLayer\\CommanLayer.csproj",
+        "packagesPath": "C:\\Users\\prabhakar tiwari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prabhakar tiwari\\source\\repos\\CommanLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\prabhakar tiwari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\prabhakar tiwari\\source\\repos\\Data AccessLayer DAL\\Data AccessLayer DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\prabhakar tiwari\\source\\repos\\Data AccessLayer DAL\\Data AccessLayer DAL.csproj",
+        "projectName": "Data AccessLayer DAL",
+        "projectPath": "C:\\Users\\prabhakar tiwari\\source\\repos\\Data AccessLayer DAL\\Data AccessLayer DAL.csproj",
+        "packagesPath": "C:\\Users\\prabhakar tiwari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prabhakar tiwari\\source\\repos\\Data AccessLayer DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\prabhakar tiwari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\prabhakar tiwari\\source\\repos\\UtilityLayer\\UtilityLayer.csproj": {
+                "projectPath": "C:\\Users\\prabhakar tiwari\\source\\repos\\UtilityLayer\\UtilityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\prabhakar tiwari\\source\\repos\\MultiLayer architecture\\MultiLayer architecture.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\prabhakar tiwari\\source\\repos\\MultiLayer architecture\\MultiLayer architecture.csproj",
+        "projectName": "MultiLayer architecture",
+        "projectPath": "C:\\Users\\prabhakar tiwari\\source\\repos\\MultiLayer architecture\\MultiLayer architecture.csproj",
+        "packagesPath": "C:\\Users\\prabhakar tiwari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prabhakar tiwari\\source\\repos\\MultiLayer architecture\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\prabhakar tiwari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\prabhakar tiwari\\source\\repos\\BusinessLayer BAL\\BusinessLayer BAL.csproj": {
+                "projectPath": "C:\\Users\\prabhakar tiwari\\source\\repos\\BusinessLayer BAL\\BusinessLayer BAL.csproj"
+              },
+              "C:\\Users\\prabhakar tiwari\\source\\repos\\CommanLayer\\CommanLayer.csproj": {
+                "projectPath": "C:\\Users\\prabhakar tiwari\\source\\repos\\CommanLayer\\CommanLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\prabhakar tiwari\\source\\repos\\UtilityLayer\\UtilityLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\prabhakar tiwari\\source\\repos\\UtilityLayer\\UtilityLayer.csproj",
+        "projectName": "UtilityLayer",
+        "projectPath": "C:\\Users\\prabhakar tiwari\\source\\repos\\UtilityLayer\\UtilityLayer.csproj",
+        "packagesPath": "C:\\Users\\prabhakar tiwari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prabhakar tiwari\\source\\repos\\UtilityLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\prabhakar tiwari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
